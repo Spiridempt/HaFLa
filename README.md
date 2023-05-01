@@ -1,6 +1,6 @@
 ## Bridging the Gap between Different Programming Paradigms in Coverage-based Fault Localization
 
-Welcome to the homepage of our Internetware'21 submmsion "Bridging the Gap between Different Programming Paradigms in Coverage-based Fault Localization"!
+Welcome to the homepage of our Internetware'21 paper "Bridging the Gap between Different Programming Paradigms in Coverage-based Fault Localization"! This paper have been extended to JCST titled "Coverage-based Fault Localization in Haskell".
 
 In this website, we first release the HaFLa benchmark, which contains both real faults and seeded faults collected from popular open-source projects. Then, we give the complete experimental results in our paper, which are not fully shown in the paper due to space limit.
 
